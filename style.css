@@ -1,0 +1,50 @@
+body{
+    color: white;
+    background: #011542;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  }
+  
+  span{
+    font-size: 30px;
+  }
+  
+  #camera , #result{
+    border: 2px dashed rgb(137, 161, 255);
+    width: 350px;
+    height: 300px; 
+  }
+
+  #user_img{
+    border: 2px dashed rgb(137, 161, 255);
+    width: 350px;
+    height: 260px;
+    margin-top: 10px; 
+  }
+  
+  #result_gesture_name{
+    color: rgb(137, 161, 255);
+  }
+  
+  .gesture_name{
+    font-size: 40px;
+  }
+  
+  .emoji{
+    font-size:48px;
+  }
+  
+  .heading{
+    font-size: 18px;
+    letter-spacing: 10px;
+  }
+  
+  label{
+    font-size: 14px;
+    color: rgb(4, 4, 44);
+    padding: 6px;
+    background-color:rgb(255, 255, 255);
+  }
+
+  #style_label{
+    margin: 10px;
+  }
